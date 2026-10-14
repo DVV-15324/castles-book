@@ -2,4 +2,5 @@
 library;
 
 const List<String> registeredModules = <String>[
+  'book',
 ];
